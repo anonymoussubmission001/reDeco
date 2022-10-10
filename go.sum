@@ -1,0 +1,12 @@
+github.com/didiercrunch/paillier v0.0.0-20180810105046-753322e473bf h1:E+Ls4N8hxy3ElxEixzFBs1kt5NNySqI+o2V4Y62ADZ0=
+github.com/didiercrunch/paillier v0.0.0-20180810105046-753322e473bf/go.mod h1:9yStm7xb64EmXRvpSxc0P9NmmQq4MnM3tCdU5y6T+tk=
+github.com/ubiq/go-ubiq v3.0.1+incompatible h1:7yJwLHnvQ3deanC7k5IXBWikOdbpYUuOxM7eEPnVb2k=
+github.com/ubiq/go-ubiq v3.0.1+incompatible/go.mod h1:CDTbVZC94B833AgkH14z81twfLs7CD5tV8a7vu/CH4U=
+golang.org/x/crypto v0.0.0-20221010152910-d6f0a8c073c2 h1:x8vtB3zMecnlqZIwJNUUpwYKYSqCz5jXbiyv0ZJJZeI=
+golang.org/x/crypto v0.0.0-20221010152910-d6f0a8c073c2/go.mod h1:IxCIyHEi3zRg3s0A5j5BB6A9Jmi73HwBIUl50j+osU4=
+golang.org/x/sys v0.0.0-20210615035016-665e8c7367d1 h1:SrN+KX8Art/Sf4HNj6Zcz06G7VEz+7w9tdXTPOZ7+l4=
+golang.org/x/sys v0.0.0-20210615035016-665e8c7367d1/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405 h1:yhCVgyC4o1eVCa2tZl7eS0r+SDo693bJlVdllGtEeKM=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/yaml.v2 v2.4.0 h1:D8xgwECY7CYvx+Y2n4sBz93Jn9JRvxdiyyo8CTfuKaY=
+gopkg.in/yaml.v2 v2.4.0/go.mod h1:RDklbk79AGWmwhnvt/jBztapEOGDOx6ZbXqjP6csGnQ=
