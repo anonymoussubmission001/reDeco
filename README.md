@@ -29,21 +29,23 @@ Change directory to app folder.
 ```
 $ cd ~/reDeco/app
 ```
-Change to the corresponding directory
+Change to the corresponding directory, first start the server, then the verifier, then the prover
 ```
 $ cd ~/reDeco/app/server
 ```
-Always run server(verifier) first
+Always run server first
 ```
-$ go run ./server.go 
+$ go run ./server.go
 ```
-Then run verifier(server)
+Then run verifier
 ```
+$ cd ~/reDeco/app/verifier
 $ go run ./verifier.go
 ```
-Run client at last
+Run prover at last
 ```
-$ go run ./client.go
+$ cd ~/reDeco/app/prover
+$ go run prover.go
 ```
 
 ## MPC resources:
